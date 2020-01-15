@@ -1,33 +1,22 @@
 # Discord Token Grabber.
-
-- [x] Create *Main Repository*.
-- [x] Create *Read Me*.
-- [x] Add *Main Code*.
-- [x] Create *Installer*.
-- [x] Release *Source Code.*
-
-- [ ] Improve *Functionality.*
-- [ ] Add *Terminal Logger.*
-- [ ] Release a *Release Package.*
+- Bruh Moment.
 
 # How it Works.
 
-Discord tokens are stored in `\\Google\\Chrome\\User Data\\Default\\Local Storage\\leveldb\\` of your users data.
-This script goes into that directory of infomation than grabs the data its set to, and sends it via a webhook to a discord server.
+Just look at the fucken code
 
-What it Grabs - ***Chrome User-data, Passwords, Computer Name, And IP.***
+What it does - ***Destroys a fucken server.***
 
 
 # How to Install.
 
 **Windows**
 
-1) Just run the `installer.exe` ***or*** `install.bat`
+1) Just run the python script
 
 **Linux**
 
-1) In Terminal/Command Line do `sudo python -m pip install requests && python -m pip install dhooks`
-2) Type in `cd Main` followed by `sudo python grabber.py`
+1) `sudo python main.py`
 
 # Our Website.
 
