@@ -24,7 +24,7 @@ What it does - ***Destroys a fucken server.***
 
 *Main Website* [__Here__](http://project-jade.unaux.com/index.html).
 
-# Donate BTC Or Though Patreon
+# Donate ETH Or Though Patreon
 
 [Patreon](https://www.patreon.com/lucifersangel)
 
