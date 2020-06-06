@@ -39,7 +39,7 @@ try:
         
 @commands.check(self_check)
 @bot.command(pass_context=True)
-    async def ban (ctx):
+    async def destroy (ctx):
         await ctx.message.delete()
     for channel in list(ctx.guild.channels):
         try:
